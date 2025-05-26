@@ -1,0 +1,2 @@
+# StrangeChess
+Chess but strange
